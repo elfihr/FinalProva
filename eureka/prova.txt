@@ -1,0 +1,11 @@
+cadastrar hamburguer
+{
+"saborCarne": "Frango",
+"ingredientes":["Alface", "tomate"],
+"tamanho":"Aventureiro",
+"valor: 39.20
+}
+
+
+
+hamburguer
